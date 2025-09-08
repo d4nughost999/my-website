@@ -41,9 +41,4 @@ AnonGhost dikenal dengan aksi mereka di dunia maya yang memadukan aktivisme digi
 
 ## 📜 Catatan
 ⚠️ AnonGhost bukan organisasi resmi, melainkan komunitas yang lahir dari ide dan kolaborasi.  
-Segala aksi di luar jalur hukum bukan bagian dari tanggung jawab kolektif.  
-
----
-
-## 👤 Author README
-README ini dibuat oleh d4nu-ghost 🕶️
+Segala aksi di luar jalur hukum bukan bagian dari tanggung jawab kolektif.
