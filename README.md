@@ -11,7 +11,8 @@
 ANONGHOST adalah sebuah kelompok *hacktivist* (hacker dengan tujuan ideologis atau politis) yang muncul sekitar tahun 2012–2013.  
 Kelompok ini dikenal karena melakukan serangan siber seperti.
 - *website defacement*,
-- *DDoS attack*, dan *data leaks* terhadap target-target yang dianggap berseberangan dengan ideologi mereka.
+- *DDoS attack*
+- *data leaks* terhadap target-target yang dianggap berseberangan dengan ideologi mereka.
 
 ## Latar Belakang
 - Awalnya muncul sebagai bagian dari gelombang besar gerakan Anonymous, meski tidak resmi terkait.
