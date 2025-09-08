@@ -30,6 +30,3 @@ Kelompok ini dikenal karena melakukan serangan siber seperti.
   - Kebocoran data (data leaks).  
 
 ---
-
-⚠️ Disclaimer:  
-Dokumentasi ini hanya bersifat informasi/edukasi. Penulis tidak berafiliasi dengan ANONGHOST dan tidak mendukung aktivitas ilegal dalam bentuk apa pun.
